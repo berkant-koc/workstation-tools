@@ -1,4 +1,4 @@
-# skynet-public
+# workstation-tools
 
 Small, opinionated tools I keep around the workstation for working
 with [Claude Code](https://docs.claude.com/en/docs/claude-code) and
